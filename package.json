@@ -1,5 +1,5 @@
 {
-  "name": "ionic-resources",
+  "name": "@hedsdesign/ionic-resources",
   "version": "1.0.0",
   "description": "Gerador de splashs e ícones para projetos Ionic/Cordova",
   "main": "index.js",
@@ -22,7 +22,8 @@
   },
   "author": [
     "Felipe Sousa <felipzbr@gmail.com>",
-    "Victor Queiroz <victorcqueirozg@gmail.com>"
+    "Victor Queiroz <victorcqueirozg@gmail.com>",
+    "Hudson Silva Oliveira <hudson@huds.com.br>"
   ],
   "license": "MIT",
   "bugs": {
