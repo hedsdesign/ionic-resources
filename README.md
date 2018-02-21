@@ -17,5 +17,5 @@ $ [sudo] npm install -g @hedsdesign/ionic-resources
 
 ## Usage
 ```bash
-$ cordova-resources [platform]
+$ ionic-resources [platform]
 ```
