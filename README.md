@@ -1,31 +1,21 @@
-# Cordova-resources
-Generate your resources easily
+# ionic-resources
+Gerador automático dos resources de projetos Ionic.
 
-## Installation
+## Requerimentos
 
-obs: You need has installed [ImageMagick](http://www.imagemagick.org/script/index.php) in your machine.
+Você precisa ter o [ImageMagick](http://www.imagemagick.org/script/index.php) instalado na sua máquina.
 
 ```bash
-$ [sudo] npm install -g cordova-resources
+$ [sudo] npm install -g @hedsdesign/ionic-resources
 ```
-## Files
+## Intruções de uso
 
-*obs: You must have this file in your folder before you can generate your resources.*
+*Você precisa ter os arquivos abaixo na raiz do seu projeto ionic antes de iniciar o processo de geração.*
 
-* **[android]** - `android-icon.png` for icons and `android-splash.png` for splash.
-* **[ios]** - `ios-icon.png` for icons and `ìos-splash.png` for splash.
+* **[android]** - `android-icon.png` para os ícones e `android-splash.png` para os splashes.
+* **[ios]** - `ios-icon.png` para os ícones e `ìos-splash.png` para os splashes.
 
 ## Usage
 ```bash
 $ cordova-resources [platform]
 ```
-
-## Contributing
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
-
-## License
-Copyright (c) 2015 Copyright Holder All Rights Reserved.
