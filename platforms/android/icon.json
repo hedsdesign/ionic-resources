@@ -1,0 +1,8 @@
+[  
+  {"dest": "resources/android/icon/drawable-ldpi-icon.png", "width": 36, "height": 36}, 
+  {"dest": "resources/android/icon/drawable-mdpi-icon.png", "width": 48, "height": 48}, 
+  {"dest": "resources/android/icon/drawable-hdpi-icon.png", "width": 72, "height": 72}, 
+  {"dest": "resources/android/icon/drawable-xhdpi-icon.png", "width": 96, "height": 96}, 
+  {"dest": "resources/android/icon/drawable-xxhdpi-icon.png", "width": 144, "height": 144}, 
+  {"dest": "resources/android/icon/drawable-xxxhdpi-icon.png", "width": 192, "height": 192}
+]

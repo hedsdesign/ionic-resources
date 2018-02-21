@@ -1,0 +1,15 @@
+[
+	{ "dest": "resources/android/splash/Default@2x~iphone.png", "width": 640, "height": 960 },
+	{ "dest": "resources/android/splash/Default@2x~universal~anyany.png", "width": 2732, "height": 2732 },
+	{ "dest": "resources/android/splash/Default~iphone.png", "width": 320, "height": 480 },
+	{ "dest": "resources/android/splash/Default-568h@2x~iphone.png", "width": 640, "height": 1136 },
+	{ "dest": "resources/android/splash/Default-667h.png", "width": 750, "height": 1334 },
+	{ "dest": "resources/android/splash/Default-736h.png", "width": 1242, "height": 2208 },
+	{ "dest": "resources/android/splash/Default-Landscape@~ipadpro.png", "width": 2732, "height": 2048 },
+	{ "dest": "resources/android/splash/Default-Landscape@2x~ipad.png", "width": 2048, "height": 1536 },
+	{ "dest": "resources/android/splash/Default-Landscape~ipad.png", "width": 1024, "height": 768 },
+	{ "dest": "resources/android/splash/Default-Landscape-736h.png", "width": 2208, "height": 1242 },
+	{ "dest": "resources/android/splash/Default-Portrait@~ipadpro.png", "width": 2048, "height": 2732 },
+	{ "dest": "resources/android/splash/Default-Portrait@2x~ipad.png", "width": 1536, "height": 2048 },
+	{ "dest": "resources/android/splash/Default-Portrait~ipad.png", "width": 768, "height": 1024 }
+]
